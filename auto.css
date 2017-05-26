@@ -1,0 +1,208 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+ /*<!--------------mobiledevice-------------------------------->*/
+
+
+body {
+	background:black;
+
+}
+
+
+
+
+footer, header {
+	width:100%;
+}
+
+
+
+img {
+	width: 100%;
+	
+}
+
+footer {
+	text-align: center;
+	width: 100%;
+	float: left;
+	background-color: black;
+	margin-bottom:1em;
+	}
+
+	.container {
+	width: 70%;
+	margin:auto;
+	background:#29293d ;
+}
+
+#logo img {
+	width: 20%;
+	margin:2% 40%;
+}
+
+/*.carimage img {
+	width:100%;
+
+}*/
+
+.carimage {
+	margin-top:.5em;
+}
+
+
+#main_content {
+	float: left;
+	width: 100%;
+	margin-bottom: 1em;
+}
+
+
+
+.info {
+	width:100%;
+	
+
+
+}
+
+
+.gallery {
+	width: 100%;
+	margin: auto;
+	/*border: solid 1px red;*/
+
+}
+
+
+
+#second_content {
+	width:100%;
+	margin-bottom:1em;
+}
+
+
+
+
+
+h2 {
+	text-align: center;
+	color: #fff;
+}
+
+h1 {
+	color: #fff;
+}
+
+p {
+	color: #fff;
+}
+
+.gallery h2 {
+	color: #fff;
+}
+
+#footer_navagation li {
+	list-style: none;
+	color: #fff;
+}
+
+h1 {
+	font-size:25px;
+}
+
+
+figcaption {
+	text-align: center;
+	font-size: 1.5em;
+	background:black;
+	border:1px solid #fff; 
+	
+}
+
+figcaption {
+	color:#fff;
+}
+
+footer {
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+@media only screen and (min-width: 768px) {
+
+
+
+.gallery {
+	width:31.3%;
+	float: left;
+	display: inline-block;
+	margin: 2% 1%;
+	/*border: solid 1px red;*/
+	padding-left: 2em;
+	padding-right: 2em;
+
+}
+
+h1 {
+	font-size: 5em;
+}
+
+footer {
+	text-align: center;
+	width: 100%;
+	float: left;
+	background-color: black;
+	margin-bottom:2em;
+	}
+
+.info {
+	width:31.3%;
+	float: left;
+	display: inline-block;
+	margin: 2% 1%;
+
+}
+
+
+.gallery img {
+	width:100%;
+	margin: auto;
+}
+
+
+#second_content {
+	margin-top: 1em;
+}
+
+#main_content {
+	float: left;
+	width: 100%;
+}
+
+
+
+figcaption {
+	text-align: center;
+	font-size: 50px;
+	background:black;
+	border:1px solid #fff;
+	font-weight: 
+	
+}
+
+
+#logo img {
+	width: 20%;
+	margin:2% 40%;
+}
+
+
+}
